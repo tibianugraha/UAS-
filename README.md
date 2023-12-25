@@ -106,6 +106,10 @@ blog pribdi di wordpress
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+Hugging Face adalah sebuah perusahaan dan platform open-source yang fokus pada pengembangan dan distribusi model kecerdasan buatan, khususnya dalam bidang pemrosesan bahasa alami (NLP)
+- akun yang saya buat https://huggingface.co/TibiaN
+- unruk tampilan awal masuk
+  ![Untitled](https://github.com/tibianugraha/UAS-/assets/148552896/6ebae89e-fa69-43fc-a4d8-3b753fb6aef4)
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
