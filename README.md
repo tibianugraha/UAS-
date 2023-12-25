@@ -82,7 +82,11 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 blog pribdi di wordpress
-- akun 
+- akun https://wordpress.com/home/uinupdate.wordpress.com?aff=15767&cid=1654213&cmp_id=11549382845&adg_id=111353876614&kwd=wordpress&device=c&gad_source=1&gclid=Cj0KCQiA7aSsBhCiARIsALFvovyEan-4Vs5uzpZ2HVGiQYH__4RxcmhlfQV7OscQqNnl-sUAenw6z04aAirLEALw_wcB
+- wordpress ini saya sudah membuat sudah membuat 2 yang ertama ada al-qur'an adalah pedoman hidup dan satu lagi Membuka Gerbang Keberhasilan: Menggali Lebih Dalam tentang Kunci Keberhasilan dalam Menghafal Al-Quran.
+- tampilan editor wordpress
+  ![Untitled](https://github.com/tibianugraha/UAS-/assets/148552896/68e1ab69-df74-49a2-948e-79d80dc9d9a4)
+
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
