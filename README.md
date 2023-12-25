@@ -108,8 +108,14 @@ blog pribdi di wordpress
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 Hugging Face adalah sebuah perusahaan dan platform open-source yang fokus pada pengembangan dan distribusi model kecerdasan buatan, khususnya dalam bidang pemrosesan bahasa alami (NLP)
 - akun yang saya buat https://huggingface.co/TibiaN
-- unruk tampilan awal masuk
+- untuk tampilan awal masuk
   ![Untitled](https://github.com/tibianugraha/UAS-/assets/148552896/6ebae89e-fa69-43fc-a4d8-3b753fb6aef4)
+- di dalam hugging face ada benyak model dan ini hasil sc di bagian model
+  ![image](https://github.com/tibianugraha/UAS-/assets/148552896/2fca9d67-3cec-450f-92e0-8538a694d309)
+- selanjutnyaa saya membuka model microsoft untuk gambarannya
+  ![image](https://github.com/tibianugraha/UAS-/assets/148552896/7de689f1-7c4d-4506-bcf5-c7aaa76165e7)
+- Datasets adalah perpustakaan untuk mengakses dan berbagi kumpulan data dengan mudah untuk tugas Audio, Computer Vision, dan Natural Language Processing (NLP), saya melihat yng chatgpt
+  ![image](https://github.com/tibianugraha/UAS-/assets/148552896/521d467e-2e28-43cf-9913-b66017e197ab)
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
