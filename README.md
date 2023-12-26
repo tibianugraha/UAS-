@@ -118,6 +118,14 @@ Hugging Face adalah sebuah perusahaan dan platform open-source yang fokus pada p
   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/521d467e-2e28-43cf-9913-b66017e197ab)
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+Kaggle adalah platform daring yang menyediakan sumber daya dan kompetisi dalam bidang ilmu data, pembelajaran mesin, dan analisis statistik. Di Kaggle, para ilmuwan data, peneliti, dan profesional di bidang teknologi dapat mengakses dataset besar, berpartisipasi dalam kompetisi analisis data, dan berkolaborasi dalam proyek-proyek terbuka.
+- akun https://www.kaggle.com/tibianugraha
+- menu utama 
+  ![image](https://github.com/tibianugraha/UAS-/assets/148552896/28a410f3-6680-4bf5-86db-2029adf4c55c)
+- mencoba datasets
+  ![image](https://github.com/tibianugraha/UAS-/assets/148552896/bf782a3a-734d-47d6-8fd6-98b790071e0f)
+- gambaran model
+  ![image](https://github.com/tibianugraha/UAS-/assets/148552896/b1fdbd3e-db2f-42d4-bbd4-374b79d5b218)
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
