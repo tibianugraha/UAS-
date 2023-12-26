@@ -141,6 +141,14 @@ MQTT, singkatan dari Message Queuing Telemetry Transport, adalah protokol komuni
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
+Penjelasan singkat mengenai jurnal, konferensi, artikel, dan tingkat jurnal adalah sebagai berikut. Jurnal adalah publikasi berkala yang memuat artikel ilmiah, penelitian, atau ulasan di suatu bidang ilmu. Bertujuan sebagai sarana komunikasi dan pertukaran informasi di antara peneliti dan akademisi, jurnal memberikan platform untuk menyebarkan pengetahuan baru, hasil penelitian, dan kontribusi ilmiah.
+
+Konferensi, di sisi lain, merupakan pertemuan yang dihadiri oleh ahli, peneliti, dan praktisi dalam suatu bidang. Selain melibatkan penyajian dan diskusi tentang penelitian terkini, konferensi juga bertujuan untuk meningkatkan kolaborasi, berbagi pengetahuan, dan memperbarui pemahaman mengenai perkembangan terkini dalam bidang tertentu.
+
+Artikel, baik ilmiah maupun non-ilmiah, adalah tulisan yang dapat berupa esai, opini, atau hasil penelitian. Dalam konteks ilmiah, artikel umumnya mengandung analisis atau temuan dari penelitian yang disusun sesuai dengan format standar. Tujuannya adalah memberikan informasi, analisis, atau pandangan terhadap suatu topik, dan artikel dapat diterbitkan di berbagai media seperti jurnal, majalah, atau platform online.
+
+Tingkat jurnal atau journal ranking merujuk pada peringkat atau klasifikasi jurnal ilmiah. Faktor-faktor seperti dampak jurnal, reputasi, dan kualitas artikel yang diterbitkan digunakan untuk menilai kredibilitas dan relevansi jurnal dalam suatu bidang. Meskipun tingkat jurnal dan reputasi konferensi dapat memengaruhi persepsi terhadap kualitas penelitian, tetap penting untuk menilai setiap sumber dengan kritis, mempertimbangkan konteks spesifik dari topik atau bidang penelitian.
+
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
