@@ -129,7 +129,12 @@ Kaggle adalah platform daring yang menyediakan sumber daya dan kompetisi dalam b
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 MQTT, singkatan dari Message Queuing Telemetry Transport, adalah protokol komunikasi ringan yang dirancang khusus untuk kebutuhan Internet of Things (IoT). Protokol ini memungkinkan perangkat IoT untuk berkomunikasi secara efisien dan dapat diandalkan dalam lingkungan jaringan yang terdistribusi.
-- 
+
+- tampilan awal
+![WhatsApp Image 2023-12-26 at 16 22 20_8b1d654b](https://github.com/tibianugraha/UAS-/assets/148552896/1766acf3-b58d-4cb5-a9a0-3180c8e9d199)
+![WhatsApp Image 2023-12-26 at 16 22 21_05127325](https://github.com/tibianugraha/UAS-/assets/148552896/11ff3fa7-b96d-4308-b4c9-8d59f50a4e32)
+![WhatsApp Image 2023-12-26 at 16 22 21_3d93ef6a](https://github.com/tibianugraha/UAS-/assets/148552896/6898af9e-fef3-4cb4-84b6-cff8bc5d1c20)
+
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
