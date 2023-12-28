@@ -47,6 +47,36 @@ Saya sudah mencoba hal ini dengan teman mecoba sering bareng menggunakan google 
   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/2fc716ff-a299-4932-8a65-e7f1cb76cec4)
 
 ## Mencoba Console Sistem Operasi
+Console sistem operasi biasanya merujuk pada antarmuka teks atau terminal yang memungkinkan pengguna berinteraksi dengan sistem operasi melalui baris perintah. Di beberapa sistem operasi, ini dapat disebut sebagai terminal, command prompt, atau shell.
+*Windows Command Prompt:*
+   - Pada sistem operasi Windows, Anda dapat membuka Command Prompt dengan mencari "cmd" atau "Command Prompt" di menu Start.
+   - Anda dapat menjalankan perintah seperti `dir` untuk melihat daftar file di direktori aktif, `cd` untuk berpindah antar direktori, dan lainnya.
+   - Beberapa perintah dasar yang umum digunakan di Windows Command Prompt melibatkan manajemen file, jaringan, dan konfigurasi sistem.
+
+*Unix/Linux Terminal:*
+   - Di sistem operasi Unix atau Linux, Anda dapat menggunakan terminal seperti GNOME Terminal atau Konsole.
+   - Anda dapat menjalankan perintah seperti `ls` untuk melihat daftar file, `cd` untuk berpindah direktori, dan perintah lain seperti `grep`, `awk`, atau `sed` untuk manipulasi teks.
+   - Terminal di Unix/Linux mendukung scripting dengan menggunakan shell seperti Bash.
+
+*macOS Terminal:*
+   - Sistem operasi macOS memiliki Terminal yang mirip dengan terminal di Unix/Linux karena macOS berbasis pada kernel Unix.
+   - Pengguna dapat menjalankan perintah Unix standar serta perintah khusus macOS.
+
+*Perintah Umum:*
+   - Beberapa perintah umum yang dapat dijalankan di hampir semua console sistem operasi melibatkan navigasi file, manajemen direktori, pencarian, pengeditan teks, dan administrasi sistem.
+
+Contoh perintah umum:
+
+- `cd`: Berpindah direktori.
+- `dir` (Windows) atau `ls` (Unix/Linux/macOS): Melihat isi direktori.
+- `mkdir`: Membuat direktori baru.
+- `copy` (Windows) atau `cp` (Unix/Linux/macOS): Menyalin file.
+- `del` (Windows) atau `rm` (Unix/Linux/macOS): Menghapus file.
+- `echo`: Menampilkan teks di layar.
+- `type` (Windows) atau `cat` (Unix/Linux/macOS): Menampilkan isi file.
+**contoh**
+  ![image](https://github.com/tibianugraha/UAS-/assets/148552896/afccc91b-c622-4b15-8bb1-a547090e2abb)
+
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
