@@ -42,6 +42,9 @@ Mesin komputasi adalah perangkat keras atau perangkat keras dan perangkat lunak 
    - Mesin komputasi yang menggunakan prinsip-prinsip fisika kuantum untuk melakukan pemrosesan data, memberikan potensi untuk memecahkan masalah yang sulit secara lebih efisien dibandingkan dengan komputer klasik.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+Saya sudah mencoba hal ini dengan teman mecoba sering bareng menggunakan google colab ini
+- tampilan google colab
+  ![image](https://github.com/tibianugraha/UAS-/assets/148552896/2fc716ff-a299-4932-8a65-e7f1cb76cec4)
 
 ## Mencoba Console Sistem Operasi
 
