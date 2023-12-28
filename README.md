@@ -2,7 +2,44 @@
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
+Computational thinking adalah pendekatan pemecahan masalah yang melibatkan kemampuan untuk mengurai masalah menjadi bagian-bagian kecil, mengenali pola-pola, dan merancang algoritma untuk menyelesaikannya. Menginternalisasi computational thinking berarti tidak hanya memahami konsep-konsep tersebut, tetapi juga mengintegrasikannya ke dalam pemikiran sehari-hari.
+
+Proses ini melibatkan kemampuan untuk menganalisis masalah dengan cara yang terstruktur, mengidentifikasi pola atau struktur dasar, dan merumuskan langkah-langkah atau algoritma untuk memecahkan masalah tersebut. Seseorang yang telah menginternalisasi computational thinking dapat secara efektif menggunakan pola berpikir komputasional untuk menghadapi berbagai tantangan, bahkan di luar konteks komputer.
+
+Pentingnya menginternalisasi computational thinking terletak pada peningkatan keterampilan pemecahan masalah, kecerdasan analitis, dan kemampuan berpikir kritis. Dalam perkembangan teknologi yang terus meningkat, kemampuan ini tidak hanya menjadi relevan dalam bidang IT, tetapi juga menjadi keterampilan esensial dalam berbagai profesi dan kehidupan sehari-hari. Dengan menginternalisasi computational thinking, seseorang dapat lebih adaptif dan efektif dalam menghadapi tantangan di era informasi yang terus berkembang.
+
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+
+Mesin komputasi adalah perangkat keras atau perangkat keras dan perangkat lunak yang dirancang untuk melakukan operasi komputasi dan pemrosesan data. Berikut adalah beberapa jenis mesin komputasi yang umum digunakan:
+
+1. *Komputer Pribadi (Personal Computer - PC):*
+   - Desktop: Komputer ini umumnya ditempatkan di meja dan terdiri dari unit sistem, monitor, keyboard, dan mouse.
+   - Laptop: Komputer yang portabel dan ringkas, dirancang untuk penggunaan pribadi atau profesional saat bepergian.
+
+2. *Server:*
+   - Server Tower: Merupakan server berbentuk menara yang umumnya digunakan di kantor atau pusat data kecil.
+   - Rack Server: Dirancang untuk ditempatkan dalam rak khusus di pusat data dan mendukung penyusunan yang efisien dari beberapa server.
+
+3. *Superkomputer:*
+   - Komputer ini dirancang untuk menangani tugas-tugas pemrosesan data yang sangat kompleks dan membutuhkan kinerja tinggi, seperti simulasi ilmiah dan perhitungan kompleks.
+
+4. *Mainframe:*
+   - Mesin komputasi besar yang dirancang untuk menangani volume data yang sangat besar dan mendukung operasi bisnis skala besar, seperti perbankan dan manajemen basis data perusahaan.
+
+5. *Minikomputer:*
+   - Mesin dengan kapabilitas pemrosesan yang lebih kecil daripada mainframe tetapi lebih besar daripada komputer pribadi, sering digunakan dalam bisnis dan riset ilmiah.
+
+6. *Mikrokontroler:*
+   - Chip komputer kecil yang terintegrasi dalam perangkat elektronik untuk mengendalikan fungsi spesifik, seperti dalam sistem kendali otomotif, peralatan rumah tangga pintar, atau perangkat elektronik konsumen.
+
+7. *Embedded Systems:*
+   - Sistem tertanam dalam perangkat atau sistem lainnya, seperti mikrokontroler, FPGA (Field-Programmable Gate Array), atau ASIC (Application-Specific Integrated Circuit).
+
+8. *Konsol Game:*
+   - Mesin komputasi khusus yang dirancang untuk menjalankan permainan video dan aplikasi hiburan terkait.
+
+9. *Komputer Kuantum:*
+   - Mesin komputasi yang menggunakan prinsip-prinsip fisika kuantum untuk melakukan pemrosesan data, memberikan potensi untuk memecahkan masalah yang sulit secara lebih efisien dibandingkan dengan komputer klasik.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
