@@ -48,6 +48,7 @@
      ![image](https://github.com/tibianugraha/UAS-/assets/148552896/2fc716ff-a299-4932-8a65-e7f1cb76cec4)
 
 4. Mencoba Console Sistem Operasi
+   
       Console sistem operasi biasanya merujuk pada antarmuka teks atau terminal yang memungkinkan pengguna berinteraksi dengan sistem operasi melalui baris perintah. Di beberapa sistem          operasi, ini dapat disebut sebagai terminal, command prompt, atau shell.
       *Windows Command Prompt:*
       - Pada sistem operasi Windows, Anda dapat membuka Command Prompt dengan mencari "cmd" atau "Command Prompt" di menu Start.
@@ -80,7 +81,7 @@
         ![image](https://github.com/tibianugraha/UAS-/assets/148552896/afccc91b-c622-4b15-8bb1-a547090e2abb)
 
 
-4. Windows CMD [v] ⭐⭐⭐⭐
+5. Windows CMD [v] ⭐⭐⭐⭐
 
    Command Prompt (CMD) adalah sebuah program baris perintah pada sistem operasi Windows yang memungkinkan pengguna untuk berinteraksi dengan sistem menggunakan perintah teks. Ini merupakan antarmuka baris perintah yang dapat digunakan untuk menjalankan berbagai tugas dan perintah pada sistem operasi Windows.
 CMD menyediakan lingkungan teks di mana pengguna dapat memasukkan perintah-perintah sistem operasi untuk melakukan tugas seperti menjalankan program, mengelola file dan direktori, mengonfigurasi pengaturan sistem, dan lain sebagainya. Pengguna dapat memanggil CMD dengan cara mengetik "cmd" di kotak pencarian atau menu "Run" pada Windows.
