@@ -82,32 +82,42 @@
 
 4. Windows CMD [v] ⭐⭐⭐⭐
 
-   Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+   Command Prompt (CMD) adalah sebuah program baris perintah pada sistem operasi Windows yang memungkinkan pengguna untuk berinteraksi dengan sistem menggunakan perintah teks. Ini merupakan antarmuka baris perintah yang dapat digunakan untuk menjalankan berbagai tugas dan perintah pada sistem operasi Windows.
+CMD menyediakan lingkungan teks di mana pengguna dapat memasukkan perintah-perintah sistem operasi untuk melakukan tugas seperti menjalankan program, mengelola file dan direktori, mengonfigurasi pengaturan sistem, dan lain sebagainya. Pengguna dapat memanggil CMD dengan cara mengetik "cmd" di kotak pencarian atau menu "Run" pada Windows.
 
-5. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+   Perintah-perintah CMD dapat mencakup operasi dasar seperti menjalankan program atau skrip, mengubah direktori kerja, meng-copy, memindahkan, atau menghapus file, dan melakukan berbagai tugas administratif sistem. Pengguna dapat memasukkan perintah-perintah ini secara manual atau menyusun skrip untuk mengeksekusi serangkaian perintah secara otomatis.
+Selain CMD, Windows juga memiliki PowerShell, yang merupakan lingkungan baris perintah yang lebih kuat dan fleksibel dengan dukungan untuk bahasa skrip yang lebih maju. PowerShell umumnya dianggap sebagai penerus CMD dan memberikan kemampuan yang lebih canggih untuk administrasi sistem pada lingkungan Windows.
 
-6. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+**Kita bisa melihat IP**
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/08709b6d-2451-4b11-a982-4998fc58a498)
+**Bisa mengubah warna**
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/bbd57865-dc11-41f7-a8ab-4b70af50cd44)
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/cd4ef85d-e5cd-4132-b5f9-4336c2b1ccd4)
+
+6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+   Saya mengeksplor linux terminal menggunakan google colab di sini saya ngerun 
+7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
    Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
-7. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+8. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
    Referensi [1](https://scratch.mit.edu/)
 
-8. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
-9. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+10. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
-10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+11. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
-11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+12. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-12. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
     Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
     Referensi tambahan [1](https://db-engines.com/en/ranking)
 
-13. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
    Referensi installer [Dbeaver](https://dbeaver.io/download/)
    Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
