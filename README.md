@@ -118,24 +118,34 @@ Untuk tugas-tugas yang lebih kompleks atau spesifik, mungkin Anda perlu menginst
 
    Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
-9. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+   Flowchart adalah representasi visual dari algoritma, yang menguraikan langkah-langkah logis yang akan dieksekusi oleh komputer. Flowchart berfungsi sebagai panduan bagi para programmer selama proses pengembangan, memastikan implementasi fitur dan fungsi dilakukan secara sistematis dan koheren. Dengan menggambarkan urutan kode, seorang programmer dapat mengikuti logika aplikasi, menghindari konflik dan ketidakpastian tentang urutan eksekusi metode.
+
+Dalam pengembangan program, flowchart membantu programmer untuk menjaga kejelasan dan arah. Ini mencegah kebingungan dan memudahkan proses pengkodean dengan memberikan panduan visual tentang langkah-langkah yang harus diambil. Dengan kata lain, flowchart membantu menjaga keselarasan dan alur logis dalam pengembangan program, sehingga programmer tidak tersesat dalam pembuatan fitur atau fungsi yang mungkin saling bertentangan.
+
+Contoh
+![3-flowchart-menyalakan-komputer](https://github.com/tibianugraha/UAS-/assets/148552896/ff22f0a0-a27c-4427-a6a6-2b9ea75cdf90)
+
+Contoh
+
+
+10. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
    Referensi [1](https://scratch.mit.edu/)
 
-10. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+11. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
-11. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+12. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
-12. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+13. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
-13. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+14. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-14. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+15. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
     Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
     Referensi tambahan [1](https://db-engines.com/en/ranking)
 
-15. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+16. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
    Referensi installer [Dbeaver](https://dbeaver.io/download/)
    Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
