@@ -96,30 +96,46 @@ Selain CMD, Windows juga memiliki PowerShell, yang merupakan lingkungan baris pe
 ![image](https://github.com/tibianugraha/UAS-/assets/148552896/cd4ef85d-e5cd-4132-b5f9-4336c2b1ccd4)
 
 6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+
+Google Colab adalah sebuah platform yang memungkinkan Anda untuk menulis dan mengeksekusi kode Python di cloud, menggunakan sumber daya komputasi dari Google, termasuk GPU dan TPU. Colab sendiri tidak memberikan akses langsung ke terminal Linux, karena lebih berfokus pada lingkungan notebook Python.
+
+Meskipun begitu, Anda masih dapat menjalankan perintah terminal Linux di Colab menggunakan magic command `!`. Anda bisa menambahkan tanda seru (`!`) sebelum perintah untuk mengeksekusinya di terminal. Contoh:
+
+```python
+# Contoh menjalankan perintah ls (list directory) di terminal Linux
+!ls
+```
+
+Anda dapat menggunakan perintah terminal lainnya dengan cara yang serupa. Namun, ini terbatas pada perintah-perintah yang dapat dijalankan di lingkungan Colab, dan beberapa perintah mungkin tidak berfungsi seperti yang diharapkan.
+
+Untuk tugas-tugas yang lebih kompleks atau spesifik, mungkin Anda perlu menginstal paket-paket tambahan atau melakukan penyesuaian lain pada lingkungan. Dalam hal ini, Anda dapat menggunakan magic command atau menambahkan baris perintah instalasi atau konfigurasi pada sel kode Python.
+
+   Contoh
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/9b8670e1-7b00-416c-8f80-67cddec7bd29)
+
    
-   
-7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+8. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
    Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
-8. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+9. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
    Referensi [1](https://scratch.mit.edu/)
 
-9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+10. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
-10. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+11. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
-11. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+12. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
-12. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+13. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+14. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
     Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
     Referensi tambahan [1](https://db-engines.com/en/ranking)
 
-14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+15. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
    Referensi installer [Dbeaver](https://dbeaver.io/download/)
    Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
