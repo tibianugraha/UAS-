@@ -96,7 +96,8 @@ Selain CMD, Windows juga memiliki PowerShell, yang merupakan lingkungan baris pe
 ![image](https://github.com/tibianugraha/UAS-/assets/148552896/cd4ef85d-e5cd-4132-b5f9-4336c2b1ccd4)
 
 6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-   Saya mengeksplor linux terminal menggunakan google colab di sini saya ngerun 
+   
+   
 7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
    Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
