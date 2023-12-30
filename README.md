@@ -190,6 +190,24 @@ hasil output
 
 12. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
+   Penggunaan Integrated Development Environment (IDE) merupakan keterampilan dasar yang seharusnya dikuasai oleh seorang programmer. IDE adalah perangkat lunak yang menyediakan berbagai alat dan fitur untuk memudahkan proses pengembangan perangkat lunak. Biasanya, IDE mencakup editor kode sumber, compiler atau interpreter, debugger, serta alat bantu lain seperti manajer proyek, pengatur versi, dan pembuat antarmuka pengguna. Dalam pengalaman saya, saya telah menggunakan beberapa IDE, antara lain :
+   - Visual Studio dari Microsoft.
+   - Android Studio untuk pengembangan aplikasi mobile.
+   - Visual Studio Code sebagai text editor dalam banyak proyek dan tugas dari dosen.
+
+   IDE membawa banyak manfaat besar bagi seorang programmer, memudahkan proses penulisan kode dan meningkatkan efisiensi pengembangan perangkat lunak.
+
+   Contoh
+
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/97cdf184-4c83-4505-9db1-a74f79a4a044)
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/f975df1b-3b6b-4e1a-b838-740c80e382b1)
+
+   Contoh
+
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/467eb500-a5a1-4a45-87c9-c5460dc37e46)
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/ca612ad6-a709-4b20-9673-b42f5bfaee7e)
+
+
 13. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
 14. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
