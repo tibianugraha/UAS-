@@ -128,32 +128,65 @@ Contoh
 
 Contoh
 
-erDiagram
-  PLAYER { 
-    string Emoticon
-    string Suara 
-    string Item "Baju, Makanan, Minuman, Buku,"
-  }
-  PLAYER ||--|| Game : masuk
-  Game {
-    string NewGame "Continue Game"
-    string Options "Audio, Language, Accessibility"
-    string Minigames "Matematika, Arab, Abjad,"
-    string Quit
-  }
-  Game ||--|| InGame : masuk
-  InGame {
-    string Map "Memilih Map"
-    string Belajar "Bermain sambil belajar"
-  }
-
-
 
 10. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
    Referensi [1](https://scratch.mit.edu/)
+Scratch ini platform pemrograman visual yang dirancang untuk memudahkan pemula, terutama anak-anak, dalam belajar pemrograman. Platform ini menggunakan blok-blok visual yang dapat disusun bersama untuk membuat perintah-perintah pemrograman. Scratch memungkinkan pengguna untuk membuat proyek-proyek interaktif, animasi, permainan, dan banyak lagi tanpa harus menulis kode secara langsung.
+
+Tampilan awal
+
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/7280bf09-3a08-4ace-8d12-8a01f4ef4ddb)
+
+Tampilan saat mengedit
+
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/d0fa89bf-4e5c-4b01-a898-079f4634e9d0)
+
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/033b66e6-4a9c-47f0-9ad4-e258c0b72667)
+
 
 11. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+
+Bubble Sort adalah algoritma pengurutan sederhana di mana elemen-elemen array dibandingkan satu per satu, dan jika ditemukan bahwa dua elemen tidak berada dalam urutan yang benar, maka dilakukan pertukaran. Algoritma ini terus mengulang proses ini hingga seluruh array diurutkan.
+
+Contoh
+
+public class BubbleSort {
+
+    public static void main(String[] args) {
+        int[] arr = { 64, 34, 25, 12, 22, 11, 90 };
+
+        System.out.println("Array belum diurutkan:");
+        printArray(arr);
+
+        bubbleSort(arr);
+
+        System.out.println("\nArray sudah diurutkan:");
+        printArray(arr);
+    }
+
+    static void bubbleSort(int[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n - 1; i++)
+            for (int j = 0; j < n - i - 1; j++)
+                if (arr[j] > arr[j + 1]) {
+                    int temp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
+                }
+    }
+
+    static void printArray(int[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n; ++i)
+            System.out.print(arr[i] + " ");
+        System.out.println();
+    }
+}
+
+hasil output
+
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/5339d981-05dd-4d95-b5ac-a3ce636a4c41)
 
 12. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
