@@ -123,9 +123,30 @@ Untuk tugas-tugas yang lebih kompleks atau spesifik, mungkin Anda perlu menginst
 Dalam pengembangan program, flowchart membantu programmer untuk menjaga kejelasan dan arah. Ini mencegah kebingungan dan memudahkan proses pengkodean dengan memberikan panduan visual tentang langkah-langkah yang harus diambil. Dengan kata lain, flowchart membantu menjaga keselarasan dan alur logis dalam pengembangan program, sehingga programmer tidak tersesat dalam pembuatan fitur atau fungsi yang mungkin saling bertentangan.
 
 Contoh
+
 ![3-flowchart-menyalakan-komputer](https://github.com/tibianugraha/UAS-/assets/148552896/ff22f0a0-a27c-4427-a6a6-2b9ea75cdf90)
 
 Contoh
+
+erDiagram
+  PLAYER { 
+    string Emoticon
+    string Suara 
+    string Item "Baju, Makanan, Minuman, Buku,"
+  }
+  PLAYER ||--|| Game : masuk
+  Game {
+    string NewGame "Continue Game"
+    string Options "Audio, Language, Accessibility"
+    string Minigames "Matematika, Arab, Abjad,"
+    string Quit
+  }
+  Game ||--|| InGame : masuk
+  InGame {
+    string Map "Memilih Map"
+    string Belajar "Bermain sambil belajar"
+  }
+
 
 
 10. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
