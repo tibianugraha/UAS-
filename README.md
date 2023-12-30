@@ -140,9 +140,9 @@ Tampilan awal
 
 Tampilan saat mengedit
 
-![image](https://github.com/tibianugraha/UAS-/assets/148552896/d0fa89bf-4e5c-4b01-a898-079f4634e9d0)
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/8c71f8b6-58d6-476a-a4cf-80ca3ec5b3cb)
 
-![image](https://github.com/tibianugraha/UAS-/assets/148552896/033b66e6-4a9c-47f0-9ad4-e258c0b72667)
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/07fd0c58-8465-4244-bac4-6f6ab7331bc4)
 
 
 11. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
