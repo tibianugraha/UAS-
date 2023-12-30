@@ -210,14 +210,36 @@ hasil output
 
 13. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
-14. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+    Saya mencoba HackerRank dan mempunyai akun @ tibianugraha03
 
-15. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+   tampilan memmecahkan soal
+
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/4f00ae23-6c18-4cdd-9091-47dd65849fbd)
+
+15. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+
+16. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+
+   instal
+
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/8a962a46-0f03-4ecd-baff-c7b81ce1fc68)
+
+   Tampilan awal masuk saat mendownload
+
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/29b26017-d6bf-421a-8a90-a8808dddcba7)
+
+   tampilan awal susah di download
+
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/120d978a-308c-4e0f-ae31-3de5e7059fea)
+
+   Tampilan awal MySQL di web
+
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/ae5bb56a-10b1-4ce8-9e2b-06fa546f586e)
 
     Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
     Referensi tambahan [1](https://db-engines.com/en/ranking)
 
-16. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+17. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
    Referensi installer [Dbeaver](https://dbeaver.io/download/)
    Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
