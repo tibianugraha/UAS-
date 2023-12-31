@@ -241,7 +241,18 @@ hasil output
 
 17. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
-   Saya mencoba Dbeaver
+   Saya mencoba Dbeaver, apa sih Query Database itu ?, Query database merujuk pada proses pengambilan data dari sebuah basis data (database) menggunakan perintah tertentu. Basis data adalah kumpulan data yang terorganisir dan dapat diakses, dan query database memungkinkan pengguna untuk menentukan kriteria tertentu untuk mengambil data yang diinginkan dari basis data tersebut.
+Pertanyaan atau perintah yang digunakan untuk mengambil data dari basis data disebut query. Query database biasanya ditulis menggunakan bahasa khusus yang disebut SQL (Structured Query Language) untuk basis data relasional seperti MySQL, PostgreSQL, SQL Server, dan Oracle.
+
+Contoh sederhana query SQL adalah seperti ini:
+
+```sql
+SELECT nama, alamat FROM pelanggan WHERE kota = 'Jakarta';
+```
+
+Dalam query ini, kita meminta basis data untuk mengambil nama dan alamat pelanggan di kota Jakarta dari tabel pelanggan. Hasilnya akan berupa kumpulan data yang memenuhi kriteria yang ditentukan dalam query.
+
+Query database menjadi bagian integral dari pengelolaan dan pengambilan informasi dari basis data, memungkinkan aplikasi dan sistem untuk mendapatkan data yang diperlukan untuk berbagai keperluan seperti analisis, pelaporan, dan pemrosesan data.
 
    tampilan saaat mendownload
    
@@ -254,16 +265,28 @@ hasil output
    Referensi installer [Dbeaver](https://dbeaver.io/download/)
    Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
-14. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+18. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
    - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
    - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
    - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+   pada dokumen HTML kali ini saya menggunakan HTML milik saya yang membuat tentang warteg
 
-15. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/ced63e8c-29bb-41ae-b5f5-ca77b2123871)
 
-   Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+   mungkin itu adalah contoh yang saya buat namun belum jadi full
 
-16. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+   apa itu HTML (Hypertext Markup Language) ?
+
+   ini penjelasannya, 
+HTML, atau Hypertext Markup Language, adalah bahasa markup standar yang digunakan untuk membuat dan merancang halaman web. Ini merupakan salah satu teknologi dasar dalam pengembangan web bersama dengan CSS (Cascading Style Sheets) untuk desain dan layout, serta JavaScript untuk interaktivitas.
+
+HTML menggunakan tag atau elemen untuk memberi instruksi pada browser web tentang cara menampilkan konten. Setiap tag memiliki fungsi tertentu, dan kontennya ditempatkan di dalam tag tersebut. Contohnya, tag <p> digunakan untuk mendefinisikan paragraf, sedangkan tag <h1> hingga <h6> digunakan untuk judul dengan tingkat kepentingan yang berbeda.
+
+19. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+
+Penjelasan ini saya jelaskan di dalam blog yang saya buat yaitu di wordpress: https://uinupdate.wordpress.com/2023/12/31/uniform-resource-locator-url/
+
+17. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
    Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
