@@ -241,6 +241,16 @@ hasil output
 
 17. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
+   Saya mencoba Dbeaver
+
+   tampilan saaat mendownload
+   
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/d2c30d0e-7da3-4c45-9ea3-4f3223555410)
+
+   tampilan di dalam 
+   
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/224baa77-7ecc-4c3d-9d4c-a9d366a4a12f)
+
    Referensi installer [Dbeaver](https://dbeaver.io/download/)
    Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
