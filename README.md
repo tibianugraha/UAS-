@@ -83,73 +83,76 @@
 
 5. Windows CMD [v] ⭐⭐⭐⭐
 
-   Command Prompt (CMD) adalah sebuah program baris perintah pada sistem operasi Windows yang memungkinkan pengguna untuk berinteraksi dengan sistem menggunakan perintah teks. Ini merupakan antarmuka baris perintah yang dapat digunakan untuk menjalankan berbagai tugas dan perintah pada sistem operasi Windows.
-CMD menyediakan lingkungan teks di mana pengguna dapat memasukkan perintah-perintah sistem operasi untuk melakukan tugas seperti menjalankan program, mengelola file dan direktori, mengonfigurasi pengaturan sistem, dan lain sebagainya. Pengguna dapat memanggil CMD dengan cara mengetik "cmd" di kotak pencarian atau menu "Run" pada Windows.
+   Command Prompt (CMD) adalah sebuah program baris perintah pada sistem operasi Windows yang memungkinkan pengguna untuk berinteraksi dengan sistem menggunakan perintah teks. Ini          merupakan antarmuka baris perintah yang dapat digunakan untuk menjalankan berbagai tugas dan perintah pada sistem operasi Windows.
+   CMD menyediakan lingkungan teks di mana pengguna dapat memasukkan perintah-perintah sistem operasi untuk melakukan tugas seperti menjalankan program, mengelola file dan direktori,       mengonfigurasi pengaturan sistem, dan lain sebagainya. Pengguna dapat memanggil CMD dengan cara mengetik "cmd" di kotak pencarian atau menu "Run" pada Windows.
 
-   Perintah-perintah CMD dapat mencakup operasi dasar seperti menjalankan program atau skrip, mengubah direktori kerja, meng-copy, memindahkan, atau menghapus file, dan melakukan berbagai tugas administratif sistem. Pengguna dapat memasukkan perintah-perintah ini secara manual atau menyusun skrip untuk mengeksekusi serangkaian perintah secara otomatis.
-Selain CMD, Windows juga memiliki PowerShell, yang merupakan lingkungan baris perintah yang lebih kuat dan fleksibel dengan dukungan untuk bahasa skrip yang lebih maju. PowerShell umumnya dianggap sebagai penerus CMD dan memberikan kemampuan yang lebih canggih untuk administrasi sistem pada lingkungan Windows.
+   Perintah-perintah CMD dapat mencakup operasi dasar seperti menjalankan program atau skrip, mengubah direktori kerja, meng-copy, memindahkan, atau menghapus file, dan melakukan           berbagai tugas administratif sistem. Pengguna dapat memasukkan perintah-perintah ini secara manual atau menyusun skrip untuk mengeksekusi serangkaian perintah secara otomatis.
+   Selain CMD, Windows juga memiliki PowerShell, yang merupakan lingkungan baris perintah yang lebih kuat dan fleksibel dengan dukungan untuk bahasa skrip yang lebih maju. PowerShell       umumnya dianggap sebagai penerus CMD dan memberikan kemampuan yang lebih canggih untuk administrasi sistem pada lingkungan Windows.
 
-**Kita bisa melihat IP**
-![image](https://github.com/tibianugraha/UAS-/assets/148552896/08709b6d-2451-4b11-a982-4998fc58a498)
-**Bisa mengubah warna**
-![image](https://github.com/tibianugraha/UAS-/assets/148552896/bbd57865-dc11-41f7-a8ab-4b70af50cd44)
-![image](https://github.com/tibianugraha/UAS-/assets/148552896/cd4ef85d-e5cd-4132-b5f9-4336c2b1ccd4)
+   **Kita bisa melihat IP**
+   
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/08709b6d-2451-4b11-a982-4998fc58a498)
+   
+   **Bisa mengubah warna**
+   
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/bbd57865-dc11-41f7-a8ab-4b70af50cd44)
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/cd4ef85d-e5cd-4132-b5f9-4336c2b1ccd4)
 
 6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
-Google Colab adalah sebuah platform yang memungkinkan Anda untuk menulis dan mengeksekusi kode Python di cloud, menggunakan sumber daya komputasi dari Google, termasuk GPU dan TPU. Colab sendiri tidak memberikan akses langsung ke terminal Linux, karena lebih berfokus pada lingkungan notebook Python.
+   Google Colab adalah sebuah platform yang memungkinkan Anda untuk menulis dan mengeksekusi kode Python di cloud, menggunakan sumber daya komputasi dari Google, termasuk GPU dan TPU.      Colab sendiri tidak memberikan akses langsung ke terminal Linux, karena lebih berfokus pada lingkungan notebook Python.
 
-Meskipun begitu, Anda masih dapat menjalankan perintah terminal Linux di Colab menggunakan magic command `!`. Anda bisa menambahkan tanda seru (`!`) sebelum perintah untuk mengeksekusinya di terminal. Contoh:
+   Meskipun begitu, Anda masih dapat menjalankan perintah terminal Linux di Colab menggunakan magic command `!`. Anda bisa menambahkan tanda seru (`!`) sebelum perintah untuk               mengeksekusinya di terminal. Contoh:
 
 ```python
 # Contoh menjalankan perintah ls (list directory) di terminal Linux
 !ls
 ```
 
-Anda dapat menggunakan perintah terminal lainnya dengan cara yang serupa. Namun, ini terbatas pada perintah-perintah yang dapat dijalankan di lingkungan Colab, dan beberapa perintah mungkin tidak berfungsi seperti yang diharapkan.
+   Anda dapat menggunakan perintah terminal lainnya dengan cara yang serupa. Namun, ini terbatas pada perintah-perintah yang dapat dijalankan di lingkungan Colab, dan beberapa perintah    mungkin tidak berfungsi seperti yang diharapkan.
 
-Untuk tugas-tugas yang lebih kompleks atau spesifik, mungkin Anda perlu menginstal paket-paket tambahan atau melakukan penyesuaian lain pada lingkungan. Dalam hal ini, Anda dapat menggunakan magic command atau menambahkan baris perintah instalasi atau konfigurasi pada sel kode Python.
+   Untuk tugas-tugas yang lebih kompleks atau spesifik, mungkin Anda perlu menginstal paket-paket tambahan atau melakukan penyesuaian lain pada lingkungan. Dalam hal ini, Anda dapat       menggunakan magic command atau menambahkan baris perintah instalasi atau konfigurasi pada sel kode Python.
 
    Contoh
    ![image](https://github.com/tibianugraha/UAS-/assets/148552896/9b8670e1-7b00-416c-8f80-67cddec7bd29)
 
    
-8. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
    Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
-   Flowchart adalah representasi visual dari algoritma, yang menguraikan langkah-langkah logis yang akan dieksekusi oleh komputer. Flowchart berfungsi sebagai panduan bagi para programmer selama proses pengembangan, memastikan implementasi fitur dan fungsi dilakukan secara sistematis dan koheren. Dengan menggambarkan urutan kode, seorang programmer dapat mengikuti logika aplikasi, menghindari konflik dan ketidakpastian tentang urutan eksekusi metode.
+   Flowchart adalah representasi visual dari algoritma, yang menguraikan langkah-langkah logis yang akan dieksekusi oleh komputer. Flowchart berfungsi sebagai panduan bagi para             programmer selama proses pengembangan, memastikan implementasi fitur dan fungsi dilakukan secara sistematis dan koheren. Dengan menggambarkan urutan kode, seorang programmer dapat       mengikuti logika aplikasi, menghindari konflik dan ketidakpastian tentang urutan eksekusi metode.
 
-Dalam pengembangan program, flowchart membantu programmer untuk menjaga kejelasan dan arah. Ini mencegah kebingungan dan memudahkan proses pengkodean dengan memberikan panduan visual tentang langkah-langkah yang harus diambil. Dengan kata lain, flowchart membantu menjaga keselarasan dan alur logis dalam pengembangan program, sehingga programmer tidak tersesat dalam pembuatan fitur atau fungsi yang mungkin saling bertentangan.
+   Dalam pengembangan program, flowchart membantu programmer untuk menjaga kejelasan dan arah. Ini mencegah kebingungan dan memudahkan proses pengkodean dengan memberikan panduan visual    tentang langkah-langkah yang harus diambil. Dengan kata lain, flowchart membantu menjaga keselarasan dan alur logis dalam pengembangan program, sehingga programmer tidak tersesat       dalam pembuatan fitur atau fungsi yang mungkin saling bertentangan.
 
-Contoh
+   Contoh
 
 ![3-flowchart-menyalakan-komputer](https://github.com/tibianugraha/UAS-/assets/148552896/ff22f0a0-a27c-4427-a6a6-2b9ea75cdf90)
 
-Contoh
+   Contoh
 
 
-10. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+8. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
    Referensi [1](https://scratch.mit.edu/)
-Scratch ini platform pemrograman visual yang dirancang untuk memudahkan pemula, terutama anak-anak, dalam belajar pemrograman. Platform ini menggunakan blok-blok visual yang dapat disusun bersama untuk membuat perintah-perintah pemrograman. Scratch memungkinkan pengguna untuk membuat proyek-proyek interaktif, animasi, permainan, dan banyak lagi tanpa harus menulis kode secara langsung.
+   Scratch ini platform pemrograman visual yang dirancang untuk memudahkan pemula, terutama anak-anak, dalam belajar pemrograman. Platform ini menggunakan blok-blok visual yang dapat       disusun bersama untuk membuat perintah-perintah pemrograman. Scratch memungkinkan pengguna untuk membuat proyek-proyek interaktif, animasi, permainan, dan banyak lagi tanpa harus       menulis kode secara langsung.
 
-Tampilan awal
+   Tampilan awal
 
-![image](https://github.com/tibianugraha/UAS-/assets/148552896/7280bf09-3a08-4ace-8d12-8a01f4ef4ddb)
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/7280bf09-3a08-4ace-8d12-8a01f4ef4ddb)
 
-Tampilan saat mengedit
+   Tampilan saat mengedit
 
-![image](https://github.com/tibianugraha/UAS-/assets/148552896/8c71f8b6-58d6-476a-a4cf-80ca3ec5b3cb)
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/8c71f8b6-58d6-476a-a4cf-80ca3ec5b3cb)
 
-![image](https://github.com/tibianugraha/UAS-/assets/148552896/07fd0c58-8465-4244-bac4-6f6ab7331bc4)
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/07fd0c58-8465-4244-bac4-6f6ab7331bc4)
 
 
-11. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
-Bubble Sort adalah algoritma pengurutan sederhana di mana elemen-elemen array dibandingkan satu per satu, dan jika ditemukan bahwa dua elemen tidak berada dalam urutan yang benar, maka dilakukan pertukaran. Algoritma ini terus mengulang proses ini hingga seluruh array diurutkan.
+   Bubble Sort adalah algoritma pengurutan sederhana di mana elemen-elemen array dibandingkan satu per satu, dan jika ditemukan bahwa dua elemen tidak berada dalam urutan yang benar,       maka dilakukan pertukaran. Algoritma ini terus mengulang proses ini hingga seluruh array diurutkan.
 
-Contoh
+   Contoh
 
 public class BubbleSort {
 
@@ -184,13 +187,13 @@ public class BubbleSort {
     }
 }
 
-hasil output
+   hasil output
 
-![image](https://github.com/tibianugraha/UAS-/assets/148552896/5339d981-05dd-4d95-b5ac-a3ce636a4c41)
+   ![image](https://github.com/tibianugraha/UAS-/assets/148552896/5339d981-05dd-4d95-b5ac-a3ce636a4c41)
 
-12. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+10. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
-   Penggunaan Integrated Development Environment (IDE) merupakan keterampilan dasar yang seharusnya dikuasai oleh seorang programmer. IDE adalah perangkat lunak yang menyediakan berbagai alat dan fitur untuk memudahkan proses pengembangan perangkat lunak. Biasanya, IDE mencakup editor kode sumber, compiler atau interpreter, debugger, serta alat bantu lain seperti manajer proyek, pengatur versi, dan pembuat antarmuka pengguna. Dalam pengalaman saya, saya telah menggunakan beberapa IDE, antara lain :
+   Penggunaan Integrated Development Environment (IDE) merupakan keterampilan dasar yang seharusnya dikuasai oleh seorang programmer. IDE adalah perangkat lunak yang menyediakan          berbagai alat dan fitur untuk memudahkan proses pengembangan perangkat lunak. Biasanya, IDE mencakup editor kode sumber, compiler atau interpreter, debugger, serta alat bantu lain       seperti manajer proyek, pengatur versi, dan pembuat antarmuka pengguna. Dalam pengalaman saya, saya telah menggunakan beberapa IDE, antara lain :
    - Visual Studio dari Microsoft.
    - Android Studio untuk pengembangan aplikasi mobile.
    - Visual Studio Code sebagai text editor dalam banyak proyek dan tugas dari dosen.
@@ -208,7 +211,7 @@ hasil output
    ![image](https://github.com/tibianugraha/UAS-/assets/148552896/ca612ad6-a709-4b20-9673-b42f5bfaee7e)
 
 
-13. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+11. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
     Saya mencoba HackerRank dan mempunyai akun @ tibianugraha03
 
@@ -216,9 +219,9 @@ hasil output
 
    ![image](https://github.com/tibianugraha/UAS-/assets/148552896/4f00ae23-6c18-4cdd-9091-47dd65849fbd)
 
-15. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+12. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-16. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
    instal
 
@@ -239,7 +242,7 @@ hasil output
     Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
     Referensi tambahan [1](https://db-engines.com/en/ranking)
 
-17. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
    Saya mencoba Dbeaver, apa sih Query Database itu ?, Query database merujuk pada proses pengambilan data dari sebuah basis data (database) menggunakan perintah tertentu. Basis data adalah kumpulan data yang terorganisir dan dapat diakses, dan query database memungkinkan pengguna untuk menentukan kriteria tertentu untuk mengambil data yang diinginkan dari basis data tersebut.
 Pertanyaan atau perintah yang digunakan untuk mengambil data dari basis data disebut query. Query database biasanya ditulis menggunakan bahasa khusus yang disebut SQL (Structured Query Language) untuk basis data relasional seperti MySQL, PostgreSQL, SQL Server, dan Oracle.
@@ -265,7 +268,7 @@ Query database menjadi bagian integral dari pengelolaan dan pengambilan informas
    Referensi installer [Dbeaver](https://dbeaver.io/download/)
    Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
-18. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+15. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
    - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
    - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
    - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
@@ -278,32 +281,32 @@ Query database menjadi bagian integral dari pengelolaan dan pengambilan informas
    apa itu HTML (Hypertext Markup Language) ?
 
    ini penjelasannya, 
-HTML, atau Hypertext Markup Language, adalah bahasa markup standar yang digunakan untuk membuat dan merancang halaman web. Ini merupakan salah satu teknologi dasar dalam pengembangan web bersama dengan CSS (Cascading Style Sheets) untuk desain dan layout, serta JavaScript untuk interaktivitas.
+   HTML, atau Hypertext Markup Language, adalah bahasa markup standar yang digunakan untuk membuat dan merancang halaman web. Ini merupakan salah satu teknologi dasar dalam pengembangan    web bersama dengan CSS (Cascading Style Sheets) untuk desain dan layout, serta JavaScript untuk interaktivitas.
 
-HTML menggunakan tag atau elemen untuk memberi instruksi pada browser web tentang cara menampilkan konten. Setiap tag memiliki fungsi tertentu, dan kontennya ditempatkan di dalam tag tersebut. Contohnya, tag <p> digunakan untuk mendefinisikan paragraf, sedangkan tag <h1> hingga <h6> digunakan untuk judul dengan tingkat kepentingan yang berbeda.
+   HTML menggunakan tag atau elemen untuk memberi instruksi pada browser web tentang cara menampilkan konten. Setiap tag memiliki fungsi tertentu, dan kontennya ditempatkan di dalam tag    tersebut. Contohnya, tag <p> digunakan untuk mendefinisikan paragraf, sedangkan tag <h1> hingga <h6> digunakan untuk judul dengan tingkat kepentingan yang berbeda.
 
-19. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+16. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
-Penjelasan ini saya jelaskan di dalam blog yang saya buat yaitu di wordpress: https://uinupdate.wordpress.com/2023/12/31/uniform-resource-locator-url/
+      Penjelasan ini saya jelaskan di dalam blog yang saya buat yaitu di wordpress: https://uinupdate.wordpress.com/2023/12/31/uniform-resource-locator-url/
 
 17. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
-   Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+      Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
-17. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
    Referensi tutorial 
    - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
    - Styling halaman web : [CSS](https://www.w3schools.com/css/)
    - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
-18. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
     Referensi []
 
-19. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+20. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
-20. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 
 21. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
