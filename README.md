@@ -1,6 +1,6 @@
 # Hello Informatics !
 
-1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
    Computational thinking adalah pendekatan pemecahan masalah yang melibatkan kemampuan untuk mengurai masalah menjadi bagian-bagian kecil, mengenali pola-pola, dan merancang algoritma     untuk menyelesaikannya. Menginternalisasi computational thinking berarti tidak hanya memahami konsep-konsep tersebut, tetapi juga mengintegrasikannya ke dalam pemikiran sehari-hari.
 
@@ -8,7 +8,7 @@
 
    Pentingnya menginternalisasi computational thinking terletak pada peningkatan keterampilan pemecahan masalah, kecerdasan analitis, dan kemampuan berpikir kritis. Dalam perkembangan      teknologi yang terus meningkat, kemampuan ini tidak hanya menjadi relevan dalam bidang IT, tetapi juga menjadi keterampilan esensial dalam berbagai profesi dan kehidupan sehari-         hari. Dengan menginternalisasi computational thinking, seseorang dapat lebih adaptif dan efektif dalam menghadapi tantangan di era informasi yang terus berkembang.
 
-2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
    Mesin komputasi adalah perangkat keras atau perangkat keras dan perangkat lunak yang dirancang untuk melakukan operasi komputasi dan pemrosesan data. Berikut adalah beberapa jenis       mesin komputasi yang umum digunakan:
 
@@ -41,13 +41,13 @@
    9. *Komputer Kuantum:*
    - Mesin komputasi yang menggunakan prinsip-prinsip fisika kuantum untuk melakukan pemrosesan data, memberikan potensi untuk memecahkan masalah yang sulit secara lebih efisien              dibandingkan dengan komputer klasik.
 
-3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+## 3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
    Saya sudah mencoba hal ini dengan teman mecoba sering bareng menggunakan google colab ini
    - tampilan google colab
      ![image](https://github.com/tibianugraha/UAS-/assets/148552896/2fc716ff-a299-4932-8a65-e7f1cb76cec4)
 
-4. Mencoba Console Sistem Operasi
+## 4. Mencoba Console Sistem Operasi
    
       Console sistem operasi biasanya merujuk pada antarmuka teks atau terminal yang memungkinkan pengguna berinteraksi dengan sistem operasi melalui baris perintah. Di beberapa sistem          operasi, ini dapat disebut sebagai terminal, command prompt, atau shell.
       *Windows Command Prompt:*
@@ -81,7 +81,7 @@
         ![image](https://github.com/tibianugraha/UAS-/assets/148552896/afccc91b-c622-4b15-8bb1-a547090e2abb)
 
 
-5. Windows CMD [v] ⭐⭐⭐⭐
+## 5. Windows CMD [v] ⭐⭐⭐⭐
 
    Command Prompt (CMD) adalah sebuah program baris perintah pada sistem operasi Windows yang memungkinkan pengguna untuk berinteraksi dengan sistem menggunakan perintah teks. Ini          merupakan antarmuka baris perintah yang dapat digunakan untuk menjalankan berbagai tugas dan perintah pada sistem operasi Windows.
    CMD menyediakan lingkungan teks di mana pengguna dapat memasukkan perintah-perintah sistem operasi untuk melakukan tugas seperti menjalankan program, mengelola file dan direktori,       mengonfigurasi pengaturan sistem, dan lain sebagainya. Pengguna dapat memanggil CMD dengan cara mengetik "cmd" di kotak pencarian atau menu "Run" pada Windows.
@@ -98,7 +98,7 @@
    ![image](https://github.com/tibianugraha/UAS-/assets/148552896/bbd57865-dc11-41f7-a8ab-4b70af50cd44)
    ![image](https://github.com/tibianugraha/UAS-/assets/148552896/cd4ef85d-e5cd-4132-b5f9-4336c2b1ccd4)
 
-6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+## 6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
    Google Colab adalah sebuah platform yang memungkinkan Anda untuk menulis dan mengeksekusi kode Python di cloud, menggunakan sumber daya komputasi dari Google, termasuk GPU dan TPU.      Colab sendiri tidak memberikan akses langsung ke terminal Linux, karena lebih berfokus pada lingkungan notebook Python.
 
