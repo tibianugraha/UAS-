@@ -49,26 +49,25 @@
 
 ## 4. Mencoba Console Sistem Operasi
    
-      Console sistem operasi biasanya merujuk pada antarmuka teks atau terminal yang memungkinkan pengguna berinteraksi dengan sistem operasi melalui baris perintah. Di beberapa sistem          operasi, ini dapat disebut sebagai terminal, command prompt, atau shell.
+   Console sistem operasi biasanya merujuk pada antarmuka teks atau terminal yang memungkinkan pengguna berinteraksi dengan sistem operasi melalui baris perintah. Di beberapa sistem          operasi, ini dapat disebut sebagai terminal, command prompt, atau shell.
       *Windows Command Prompt:*
       - Pada sistem operasi Windows, Anda dapat membuka Command Prompt dengan mencari "cmd" atau "Command Prompt" di menu Start.
       - Anda dapat menjalankan perintah seperti `dir` untuk melihat daftar file di direktori aktif, `cd` untuk berpindah antar direktori, dan lainnya.
       - Beberapa perintah dasar yang umum digunakan di Windows Command Prompt melibatkan manajemen file, jaringan, dan konfigurasi sistem.
 
-      *Unix/Linux Terminal:*
+ *Unix/Linux Terminal:*
       - Di sistem operasi Unix atau Linux, Anda dapat menggunakan terminal seperti GNOME Terminal atau Konsole.
       - Anda dapat menjalankan perintah seperti `ls` untuk melihat daftar file, `cd` untuk berpindah direktori, dan perintah lain seperti `grep`, `awk`, atau `sed` untuk manipulasi teks.
       - Terminal di Unix/Linux mendukung scripting dengan menggunakan shell seperti Bash.
 
-      *macOS Terminal:*
+ *macOS Terminal:*
       - Sistem operasi macOS memiliki Terminal yang mirip dengan terminal di Unix/Linux karena macOS berbasis pada kernel Unix.
       - Pengguna dapat menjalankan perintah Unix standar serta perintah khusus macOS.
    
-      *Perintah Umum:*
+   *Perintah Umum:*
       - Beberapa perintah umum yang dapat dijalankan di hampir semua console sistem operasi melibatkan navigasi file, manajemen direktori, pencarian, pengeditan teks, dan administrasi           sistem.
 
-        Contoh perintah umum:
-
+   Contoh perintah umum:
          - `cd`: Berpindah direktori.
          - `dir` (Windows) atau `ls` (Unix/Linux/macOS): Melihat isi direktori.
          - `mkdir`: Membuat direktori baru.
@@ -77,7 +76,7 @@
          - `echo`: Menampilkan teks di layar.
          - `type` (Windows) atau `cat` (Unix/Linux/macOS): Menampilkan isi file.
            
-      **contoh**
+   **contoh**
         ![image](https://github.com/tibianugraha/UAS-/assets/148552896/afccc91b-c622-4b15-8bb1-a547090e2abb)
 
 
@@ -117,7 +116,7 @@
    ![image](https://github.com/tibianugraha/UAS-/assets/148552896/9b8670e1-7b00-416c-8f80-67cddec7bd29)
 
    
-7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+## 7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
    Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
@@ -132,7 +131,7 @@
    Contoh
 
 
-8. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+## 8. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
    Referensi [1](https://scratch.mit.edu/)
    Scratch ini platform pemrograman visual yang dirancang untuk memudahkan pemula, terutama anak-anak, dalam belajar pemrograman. Platform ini menggunakan blok-blok visual yang dapat       disusun bersama untuk membuat perintah-perintah pemrograman. Scratch memungkinkan pengguna untuk membuat proyek-proyek interaktif, animasi, permainan, dan banyak lagi tanpa harus       menulis kode secara langsung.
@@ -148,7 +147,7 @@
    ![image](https://github.com/tibianugraha/UAS-/assets/148552896/07fd0c58-8465-4244-bac4-6f6ab7331bc4)
 
 
-9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+## 9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
    Bubble Sort adalah algoritma pengurutan sederhana di mana elemen-elemen array dibandingkan satu per satu, dan jika ditemukan bahwa dua elemen tidak berada dalam urutan yang benar,       maka dilakukan pertukaran. Algoritma ini terus mengulang proses ini hingga seluruh array diurutkan.
 
@@ -191,7 +190,7 @@ public class BubbleSort {
 
    ![image](https://github.com/tibianugraha/UAS-/assets/148552896/5339d981-05dd-4d95-b5ac-a3ce636a4c41)
 
-10. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+# 10. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
    Penggunaan Integrated Development Environment (IDE) merupakan keterampilan dasar yang seharusnya dikuasai oleh seorang programmer. IDE adalah perangkat lunak yang menyediakan          berbagai alat dan fitur untuk memudahkan proses pengembangan perangkat lunak. Biasanya, IDE mencakup editor kode sumber, compiler atau interpreter, debugger, serta alat bantu lain       seperti manajer proyek, pengatur versi, dan pembuat antarmuka pengguna. Dalam pengalaman saya, saya telah menggunakan beberapa IDE, antara lain :
    - Visual Studio dari Microsoft.
@@ -211,17 +210,24 @@ public class BubbleSort {
    ![image](https://github.com/tibianugraha/UAS-/assets/148552896/ca612ad6-a709-4b20-9673-b42f5bfaee7e)
 
 
-11. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+## 11. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
-    Saya mencoba HackerRank dan mempunyai akun @ tibianugraha03
+   Saya mencoba HackerRank dan mempunyai akun @ tibianugraha03
 
    tampilan memmecahkan soal
 
    ![image](https://github.com/tibianugraha/UAS-/assets/148552896/4f00ae23-6c18-4cdd-9091-47dd65849fbd)
 
-12. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+## 12. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+ini adalah hasil percobaan pembuatan HTML yang saya buat untuk membuka warnas
 
-13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/ff5a48f9-ca24-43f6-8f5b-af2276a2eb8f)
+
+Untuk codingan yang saya buat menggunakan HTML dan CSS
+
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/48d427cb-86f3-4f64-910b-1f8fc07660c0)
+
+## 13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
    instal
 
@@ -242,7 +248,7 @@ public class BubbleSort {
     Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
     Referensi tambahan [1](https://db-engines.com/en/ranking)
 
-14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+## 14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
    Saya mencoba Dbeaver, apa sih Query Database itu ?, Query database merujuk pada proses pengambilan data dari sebuah basis data (database) menggunakan perintah tertentu. Basis data adalah kumpulan data yang terorganisir dan dapat diakses, dan query database memungkinkan pengguna untuk menentukan kriteria tertentu untuk mengambil data yang diinginkan dari basis data tersebut.
 Pertanyaan atau perintah yang digunakan untuk mengambil data dari basis data disebut query. Query database biasanya ditulis menggunakan bahasa khusus yang disebut SQL (Structured Query Language) untuk basis data relasional seperti MySQL, PostgreSQL, SQL Server, dan Oracle.
@@ -268,7 +274,7 @@ Query database menjadi bagian integral dari pengelolaan dan pengambilan informas
    Referensi installer [Dbeaver](https://dbeaver.io/download/)
    Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
-15. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+## 15. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
    - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
    - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
    - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
@@ -285,26 +291,63 @@ Query database menjadi bagian integral dari pengelolaan dan pengambilan informas
 
    HTML menggunakan tag atau elemen untuk memberi instruksi pada browser web tentang cara menampilkan konten. Setiap tag memiliki fungsi tertentu, dan kontennya ditempatkan di dalam tag    tersebut. Contohnya, tag <p> digunakan untuk mendefinisikan paragraf, sedangkan tag <h1> hingga <h6> digunakan untuk judul dengan tingkat kepentingan yang berbeda.
 
-16. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+## 16. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
-      Penjelasan ini saya jelaskan di dalam blog yang saya buat yaitu di wordpress: https://uinupdate.wordpress.com/2023/12/31/uniform-resource-locator-url/
+   Penjelasan ini saya jelaskan di dalam blog yang saya buat yaitu di wordpress: https://uinupdate.wordpress.com/2023/12/31/uniform-resource-locator-url/
 
-17. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+## 17. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+Untuk melacak kita menggunakan web: https://www.whois.com/ dari situ saya bisa melacak 
+ untuk conthnya :
+ - pada pertama ini kita bisa melhat tampilan awalnya dan di sini saya mecoba melacak informasi sever nya detik.com
+   
+ ![image](https://github.com/tibianugraha/UAS-/assets/148552896/230bbc56-6a1a-42f0-a6ab-3fa3eba2418d)
 
-      Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+ - untuk hasil pencariaannya
 
-18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/cb43ed4a-50aa-4948-8cf1-4ba653ddcef5)
+
+
+## 18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
    Referensi tutorial 
-   - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-   - Styling halaman web : [CSS](https://www.w3schools.com/css/)
-   - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+   - Isi konten halaman web : [HTML]
+   - Styling halaman web : [CSS]
+   - Interaktivitas halaman web : [JavaScript]
 
-19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+hasil mencoba:
+HTML
+
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/c346367b-e1b0-4ec6-9688-061120b1b0e5)
+
+CSS
+
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/76051b15-838d-4044-b072-67d45fe96fad)
+
+JAVASCRIPT
+
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/723024e8-5b27-443e-ae27-618d3177d604)
+
+Output:
+
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/768b3d44-239a-450a-95b1-dedd17a7ffae)
+
+## 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+SEO adalah singkatan dari Search Engine Optimization, yaitu langkah optimasi yang dilakukan agar website berada di hasil teratas mesin pencari, terutama Google. Strategi ini bisa menentukan kesuksesan website, terutama bagi Anda yang memanfaatkan website sebagai sumber penghasilan.
+
+Contoh
 
     Referensi []
 
-20. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+## 20. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+JSON adalah format data terstruktur yang umum digunakan sebagai alternatif yang lebih sederhana dan ringan dibandingkan dengan XML (Extensive Markup Language). XML, yang melibatkan konversi kompleks menjadi objek JavaScript, kini semakin jarang digunakan karena prosesnya memerlukan ribuan baris kode dan kustomisasi yang luas untuk parsing berdasarkan elemen tertentu.
+
+Sebaliknya, JSON memiliki sintaks yang mirip dengan JavaScript, sehingga sangat mudah untuk mengonversi teks menjadi objek JavaScript hanya dengan satu baris kode. JSON menggunakan parsing di sisi server untuk meningkatkan responsivitas, tanpa memerlukan informasi sebelumnya tentang parsing objek. Sebagai hasilnya, JSON menjadi format pertukaran data standar yang banyak diadopsi.
+
+JSON juga memudahkan pengambilan data lintas domain melalui teknik yang disebut "JSON padding" (JSONP). Dengan memanfaatkan fungsi panggilan kembali (callback function), pengguna dapat meminta data dari berbagai domain tanpa terhalang oleh kebijakan same-origin. Pendekatan ini telah berkontribusi pada adopsi luas JSON sebagai format pertukaran data yang serbaguna dan efisien.
+
+contoh 
+
+![f28401b4-9fc2-4523-9770-3931d0f25d53](https://github.com/tibianugraha/UAS-/assets/148552896/9d7b62ef-517b-4164-8279-d19269d0f623)
 
 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
