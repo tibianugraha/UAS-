@@ -336,7 +336,8 @@ SEO adalah singkatan dari Search Engine Optimization, yaitu langkah optimasi yan
 
 Contoh
 
-    Referensi []
+![f0b5d2dd-8902-41ed-86d6-555cf387ae42](https://github.com/tibianugraha/UAS-/assets/148552896/0c6a7a13-c583-4f0b-8791-41ea4f5eb2f8)
+
 
 ## 20. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 JSON adalah format data terstruktur yang umum digunakan sebagai alternatif yang lebih sederhana dan ringan dibandingkan dengan XML (Extensive Markup Language). XML, yang melibatkan konversi kompleks menjadi objek JavaScript, kini semakin jarang digunakan karena prosesnya memerlukan ribuan baris kode dan kustomisasi yang luas untuk parsing berdasarkan elemen tertentu.
@@ -349,47 +350,67 @@ contoh
 
 ![f28401b4-9fc2-4523-9770-3931d0f25d53](https://github.com/tibianugraha/UAS-/assets/148552896/9d7b62ef-517b-4164-8279-d19269d0f623)
 
-21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+Di soal kali ini saya akan menggunakan web hosting 000WebHost dan in gratis cocok untuk yang baru belajar
+
+- Tampilan awal saat masuk
+
+  ![image](https://github.com/tibianugraha/UAS-/assets/148552896/1d4027e7-d285-4bf3-bba0-7a3ee9880ad1)
+
+- Tampilan sudah login
+
+  ![image](https://github.com/tibianugraha/UAS-/assets/148552896/9a41d7c4-10e5-4d34-b4e9-7fe0d55b473b)
+
+- untuk sudah membuat akun 
+
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/9a1dc16e-5c0f-429b-8c0b-623c53ff01b3)
 
 
 21. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+- tampilan sudah membuat
 
-22. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+![image](https://github.com/tibianugraha/UAS-/assets/148552896/0c2c4d0c-3abe-4509-92e6-3eb0400b7ad4)
 
-23. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+- Didalam file
 
-24. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+  ![image](https://github.com/tibianugraha/UAS-/assets/148552896/cd83eb4f-e023-4178-ae66-67d2c5fcf582)
+
+23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+
+24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+
+25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
       Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis                 menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
        Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
-25. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
       blog pribdi di wordpress
       - akun https://wordpress.com/home/uinupdate.wordpress.com?                                                   aff=15767&cid=1654213&cmp_id=11549382845&adg_id=111353876614&kwd=wordpress&device=c&gad_source=1&gclid=Cj0KCQiA7aSsBhCiARIsALFvovyEan-4Vs5uzpZ2HVGiQYH__4RxcmhlfQV7OscQqNnl-sUAenw6z04aAirLEALw_wcB
       - wordpress ini saya sudah membuat sudah membuat 2 yang ertama ada al-qur'an adalah pedoman hidup dan satu lagi Membuka Gerbang Keberhasilan: Menggali Lebih Dalam tentang Kunci            Keberhasilan dalam Menghafal Al-Quran.
       - tampilan editor wordpress
   ![Untitled](https://github.com/tibianugraha/UAS-/assets/148552896/68e1ab69-df74-49a2-948e-79d80dc9d9a4)
 
-26. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
-27. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
-28. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
-29. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
-30. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+31. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
-31. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+32. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
-32. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
-33. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+34. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
-34. Mencoba Data Visualization Dengan Code [v] ⭐⭐
+35. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
-35. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+36. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
    Hugging Face adalah sebuah perusahaan dan platform open-source yang fokus pada pengembangan dan distribusi model kecerdasan buatan, khususnya dalam bidang pemrosesan bahasa alami        (NLP)
    - akun yang saya buat https://huggingface.co/TibiaN
    - untuk tampilan awal masuk
